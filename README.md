@@ -9,3 +9,7 @@ It is divided in a couple of sections for different aspect of the manifest as : 
 
 * websites creations
 * websites recontructions
+* ERP Integration
+* Mobile app development
+* Desktop app development
+* Full web app developement
